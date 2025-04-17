@@ -45,24 +45,6 @@
 44,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:11.512098
 45,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:32.925806
 46,SyntaxError,"closing parenthesis ')' does not match opening parenthesis '[' on line 22 (3987267260.py, line 24)",0,,2025-04-17 20:33:49.689467
-47,TypeError,'ellipsis' object is not iterable,0,,2025-04-17 21:34:02.841692
-48,SyntaxError,"unterminated string literal (detected at line 1) (1054670157.py, line 1)",0,,2025-04-17 22:07:54.062210
 49,TypeError,Table.column() missing 1 required positional argument: 'index_or_label',0,,2025-04-17 23:41:36.722046
 50,AttributeError,'numpy.ndarray' object has no attribute 'sample',0,,2025-04-17 23:41:56.594092
 51,NameError,name 'resampled_mean' is not defined,0,,2025-04-17 23:42:24.434550
-52,NameError,name 'plots' is not defined,0,,2025-04-17 22:09:27.865162
-53,ValueError,"The column ""Precipitation "" is not in the table. The table contains these columns: Year, Precipitation",0,,2025-04-17 23:24:51.127765
-54,ValueError,"The column ""Precipitation "" is not in the table. The table contains these columns: Year, Precipitation",0,,2025-04-17 23:24:55.575370
-55,ValueError,"The column ""Years "" is not in the table. The table contains these columns: Year, Precipitation",0,,2025-04-17 23:25:53.893930
-56,TypeError,"Use Table().with_columns() to create a new table,                 not Table.with_columns()",0,,2025-04-17 23:26:36.503574
-57,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 23:28:04.745977
-58,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 23:29:57.081859
-59,SyntaxError,"invalid syntax (2860352129.py, line 6)",0,,2025-04-17 23:32:14.562187
-60,SyntaxError,"'(' was never closed (2924433322.py, line 6)",0,,2025-04-17 23:32:23.074063
-61,AttributeError,'numpy.ndarray' object has no attribute 'num_rows',0,,2025-04-17 23:33:04.815094
-62,AttributeError,'numpy.ndarray' object has no attribute 'length',0,,2025-04-17 23:33:11.702578
-63,ValueError,Stop argument for islice() must be None or an integer: 0 <= x <= sys.maxsize.,0,,2025-04-17 23:36:18.316567
-64,ValueError,The column 'Label' contains non-numerical values. A histogram cannot be drawn for this table.,0,,2025-04-17 23:40:59.750305
-65,AttributeError,Rectangle.set() got an unexpected keyword argument 'bin',0,,2025-04-17 23:41:45.802585
-66,NameError,name 'totals' is not defined,0,,2025-04-17 23:46:19.120702
-67,SyntaxError,"positional argument follows keyword argument (546383498.py, line 8)",0,,2025-04-17 23:55:40.841714
