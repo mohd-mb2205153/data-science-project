@@ -45,3 +45,6 @@
 44,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:11.512098
 45,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:32.925806
 46,SyntaxError,"closing parenthesis ')' does not match opening parenthesis '[' on line 22 (3987267260.py, line 24)",0,,2025-04-17 20:33:49.689467
+49,TypeError,Table.column() missing 1 required positional argument: 'index_or_label',0,,2025-04-17 23:41:36.722046
+50,AttributeError,'numpy.ndarray' object has no attribute 'sample',0,,2025-04-17 23:41:56.594092
+51,NameError,name 'resampled_mean' is not defined,0,,2025-04-17 23:42:24.434550
