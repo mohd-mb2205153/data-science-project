@@ -1,0 +1,18 @@
+0,AttributeError,'Table' object has no attribute 'distinct',0,,2025-04-17 15:54:15.810086
+1,AttributeError,'Table' object has no attribute 'distinct',0,,2025-04-17 15:54:33.994783
+2,SyntaxError,"incomplete input (3357132415.py, line 10)",0,,2025-04-17 16:00:52.934225
+3,NameError,name 'citites' is not defined,0,,2025-04-17 16:16:39.868389
+4,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2025-04-17 16:16:48.360090
+5,AttributeError,'numpy.ndarray' object has no attribute 'length',0,,2025-04-17 16:18:02.816727
+6,ValueError,"label ""region"" not in labels ('Name', 'ID', 'Lat', 'Lon', 'Stn.Name', 'Stn.stDate', 'Stn.edDate', 'Region')",0,,2025-04-17 16:19:44.856081
+7,SyntaxError,"incomplete input (4275207621.py, line 1)",0,,2025-04-17 16:35:10.904221
+8,SyntaxError,"invalid syntax (1898256874.py, line 1)",0,,2025-04-17 16:44:52.909248
+9,TypeError,'str' object is not callable,0,,2025-04-17 16:45:03.806079
+10,TypeError,'str' object is not callable,0,,2025-04-17 16:45:17.019297
+11,ValueError,"label ""Distance"" not in labels ('Name', 'ID', 'Lat', 'Lon', 'Stn.Name', 'Stn.stDate', 'Stn.edDate', 'Region')",0,,2025-04-17 16:50:59.855131
+12,ValueError,"label ""region"" not in labels ('Name', 'ID', 'Lat', 'Lon', 'Stn.Name', 'Stn.stDate', 'Stn.edDate', 'Region')",0,,2025-04-17 16:55:29.938952
+13,TypeError,column functions must be callable,0,,2025-04-17 16:55:52.883788
+14,TypeError,column functions must be callable,0,,2025-04-17 16:56:01.636551
+15,ValueError,"The column ""City"" is not in the table. The table contains these columns: Name, ID, Lat, Lon, Stn.Name, Stn.stDate, Stn.edDate, Region",0,,2025-04-17 16:56:30.156363
+16,TypeError,column functions must be callable,0,,2025-04-17 16:56:36.317552
+17,TypeError,column functions must be callable,0,,2025-04-17 16:56:42.972839
