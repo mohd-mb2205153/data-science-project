@@ -25,3 +25,23 @@
 24,AssertionError,column length mismatch,0,,2025-04-17 17:07:11.994756
 25,AssertionError,column length mismatch,0,,2025-04-17 17:07:21.807138
 26,AssertionError,column length mismatch,0,,2025-04-17 17:07:34.592340
+27,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2025-04-17 19:24:45.274655
+28,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2025-04-17 19:25:41.178881
+29,AttributeError,'numpy.str_' object has no attribute 'show',0,,2025-04-17 19:29:19.247509
+30,ValueError,Indices for islice() must be None or an integer: 0 <= x <= sys.maxsize.,0,,2025-04-17 19:29:25.955953
+31,IndentationError,"expected an indented block after function definition on line 1 (2002665750.py, line 2)",0,,2025-04-17 19:30:28.890557
+32,IndentationError,"expected an indented block after function definition on line 1 (2002665750.py, line 2)",0,,2025-04-17 19:30:30.480626
+33,ValueError,"The column ""Temperature"" is not in the table. The table contains these columns: Year, tmax average",0,,2025-04-17 19:36:04.563345
+34,ValueError,"The column ""Temperature"" is not in the table. The table contains these columns: Year, tmax average",0,,2025-04-17 19:36:26.886766
+35,AttributeError,Line2D.set() got an unexpected keyword argument 'ax',0,,2025-04-17 19:36:54.931353
+36,ValueError,"The column ""tmin average"" is not in the table. The table contains these columns: Year, tmax average",0,,2025-04-17 19:41:44.256442
+37,SyntaxError,"expected ':' (3391724981.py, line 4)",0,,2025-04-17 19:55:51.862878
+38,SyntaxError,"expected ':' (1094303941.py, line 4)",0,,2025-04-17 19:56:03.790780
+39,SyntaxError,"incomplete input (2905413624.py, line 14)",0,,2025-04-17 20:01:12.877867
+40,ValueError,"label ""Period"" not in labels ('Month', 'tmin average')",0,,2025-04-17 20:16:25.030435
+41,ValueError,"label ""Period"" not in labels ('Month', 'tmin average')",0,,2025-04-17 20:16:50.731021
+42,ValueError,"The column ""tmax average"" is not in the table. The table contains these columns: Period, Month, tmin average",0,,2025-04-17 20:23:37.688818
+43,TypeError,Table.column() missing 1 required positional argument: 'index_or_label',0,,2025-04-17 20:26:33.558705
+44,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:11.512098
+45,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:32.925806
+46,SyntaxError,"closing parenthesis ')' does not match opening parenthesis '[' on line 22 (3987267260.py, line 24)",0,,2025-04-17 20:33:49.689467
