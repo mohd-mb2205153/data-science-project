@@ -16,3 +16,12 @@
 15,ValueError,"The column ""City"" is not in the table. The table contains these columns: Name, ID, Lat, Lon, Stn.Name, Stn.stDate, Stn.edDate, Region",0,,2025-04-17 16:56:30.156363
 16,TypeError,column functions must be callable,0,,2025-04-17 16:56:36.317552
 17,TypeError,column functions must be callable,0,,2025-04-17 16:56:42.972839
+18,ValueError,"The column ""City"" is not in the table. The table contains these columns: Name, ID, Lat, Lon, Stn.Name, Stn.stDate, Stn.edDate, Region",0,,2025-04-17 16:59:19.138802
+19,TypeError,column functions must be callable,0,,2025-04-17 16:59:24.848197
+20,TypeError,column functions must be callable,0,,2025-04-17 17:00:04.512568
+21,TypeError,column functions must be callable,0,,2025-04-17 17:03:17.429026
+22,ValueError,All labels must exist in the table,0,,2025-04-17 17:03:23.931860
+23,AttributeError,'Table' object has no attribute 'distinct',0,,2025-04-17 17:06:27.182286
+24,AssertionError,column length mismatch,0,,2025-04-17 17:07:11.994756
+25,AssertionError,column length mismatch,0,,2025-04-17 17:07:21.807138
+26,AssertionError,column length mismatch,0,,2025-04-17 17:07:34.592340
