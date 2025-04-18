@@ -68,3 +68,12 @@
 67,SyntaxError,"positional argument follows keyword argument (546383498.py, line 8)",0,,2025-04-17 23:55:40.841714
 68,NameError,name 'monthly_increases' is not defined,0,,2025-04-18 00:43:34.750540
 
+1,SyntaxError,"invalid syntax (193730802.py, line 3)",0,,2025-04-18 09:27:08.342948
+2,SyntaxError,"invalid syntax (193730802.py, line 3)",0,,2025-04-18 09:27:10.282989
+3,ValueError,"label ""drought"" not in labels ('Label', 'Precipitation')",0,,2025-04-18 09:28:38.211459
+4,TypeError,unsupported operand type(s) for /: 'Table' and 'int',0,,2025-04-18 09:29:16.863579
+5,NameError,name 't' is not defined,0,,2025-04-18 09:32:39.470045
+6,AttributeError,'Table' object has no attribute 'sapmple',0,,2025-04-18 09:37:11.754259
+7,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-18 09:49:22.288904
+8,IndentationError,"expected an indented block after function definition on line 1 (3594604509.py, line 6)",0,,2025-04-18 09:49:31.999846
+9,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2025-04-18 09:53:57.158017
