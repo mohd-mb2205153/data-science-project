@@ -1,0 +1,79 @@
+0,AttributeError,'Table' object has no attribute 'distinct',0,,2025-04-17 15:54:15.810086
+1,AttributeError,'Table' object has no attribute 'distinct',0,,2025-04-17 15:54:33.994783
+2,SyntaxError,"incomplete input (3357132415.py, line 10)",0,,2025-04-17 16:00:52.934225
+3,NameError,name 'citites' is not defined,0,,2025-04-17 16:16:39.868389
+4,ValueError,The truth value of an array with more than one element is ambiguous. Use a.any() or a.all(),0,,2025-04-17 16:16:48.360090
+5,AttributeError,'numpy.ndarray' object has no attribute 'length',0,,2025-04-17 16:18:02.816727
+6,ValueError,"label ""region"" not in labels ('Name', 'ID', 'Lat', 'Lon', 'Stn.Name', 'Stn.stDate', 'Stn.edDate', 'Region')",0,,2025-04-17 16:19:44.856081
+7,SyntaxError,"incomplete input (4275207621.py, line 1)",0,,2025-04-17 16:35:10.904221
+8,SyntaxError,"invalid syntax (1898256874.py, line 1)",0,,2025-04-17 16:44:52.909248
+9,TypeError,'str' object is not callable,0,,2025-04-17 16:45:03.806079
+10,TypeError,'str' object is not callable,0,,2025-04-17 16:45:17.019297
+11,ValueError,"label ""Distance"" not in labels ('Name', 'ID', 'Lat', 'Lon', 'Stn.Name', 'Stn.stDate', 'Stn.edDate', 'Region')",0,,2025-04-17 16:50:59.855131
+12,ValueError,"label ""region"" not in labels ('Name', 'ID', 'Lat', 'Lon', 'Stn.Name', 'Stn.stDate', 'Stn.edDate', 'Region')",0,,2025-04-17 16:55:29.938952
+13,TypeError,column functions must be callable,0,,2025-04-17 16:55:52.883788
+14,TypeError,column functions must be callable,0,,2025-04-17 16:56:01.636551
+15,ValueError,"The column ""City"" is not in the table. The table contains these columns: Name, ID, Lat, Lon, Stn.Name, Stn.stDate, Stn.edDate, Region",0,,2025-04-17 16:56:30.156363
+16,TypeError,column functions must be callable,0,,2025-04-17 16:56:36.317552
+17,TypeError,column functions must be callable,0,,2025-04-17 16:56:42.972839
+18,ValueError,"The column ""City"" is not in the table. The table contains these columns: Name, ID, Lat, Lon, Stn.Name, Stn.stDate, Stn.edDate, Region",0,,2025-04-17 16:59:19.138802
+19,TypeError,column functions must be callable,0,,2025-04-17 16:59:24.848197
+20,TypeError,column functions must be callable,0,,2025-04-17 17:00:04.512568
+21,TypeError,column functions must be callable,0,,2025-04-17 17:03:17.429026
+22,ValueError,All labels must exist in the table,0,,2025-04-17 17:03:23.931860
+23,AttributeError,'Table' object has no attribute 'distinct',0,,2025-04-17 17:06:27.182286
+24,AssertionError,column length mismatch,0,,2025-04-17 17:07:11.994756
+25,AssertionError,column length mismatch,0,,2025-04-17 17:07:21.807138
+26,AssertionError,column length mismatch,0,,2025-04-17 17:07:34.592340
+27,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2025-04-17 19:24:45.274655
+28,TypeError,Table.with_column() takes from 3 to 4 positional arguments but 5 were given,0,,2025-04-17 19:25:41.178881
+29,AttributeError,'numpy.str_' object has no attribute 'show',0,,2025-04-17 19:29:19.247509
+30,ValueError,Indices for islice() must be None or an integer: 0 <= x <= sys.maxsize.,0,,2025-04-17 19:29:25.955953
+31,IndentationError,"expected an indented block after function definition on line 1 (2002665750.py, line 2)",0,,2025-04-17 19:30:28.890557
+32,IndentationError,"expected an indented block after function definition on line 1 (2002665750.py, line 2)",0,,2025-04-17 19:30:30.480626
+33,ValueError,"The column ""Temperature"" is not in the table. The table contains these columns: Year, tmax average",0,,2025-04-17 19:36:04.563345
+34,ValueError,"The column ""Temperature"" is not in the table. The table contains these columns: Year, tmax average",0,,2025-04-17 19:36:26.886766
+35,AttributeError,Line2D.set() got an unexpected keyword argument 'ax',0,,2025-04-17 19:36:54.931353
+36,ValueError,"The column ""tmin average"" is not in the table. The table contains these columns: Year, tmax average",0,,2025-04-17 19:41:44.256442
+37,SyntaxError,"expected ':' (3391724981.py, line 4)",0,,2025-04-17 19:55:51.862878
+38,SyntaxError,"expected ':' (1094303941.py, line 4)",0,,2025-04-17 19:56:03.790780
+39,SyntaxError,"incomplete input (2905413624.py, line 14)",0,,2025-04-17 20:01:12.877867
+40,ValueError,"label ""Period"" not in labels ('Month', 'tmin average')",0,,2025-04-17 20:16:25.030435
+41,ValueError,"label ""Period"" not in labels ('Month', 'tmin average')",0,,2025-04-17 20:16:50.731021
+42,ValueError,"The column ""tmax average"" is not in the table. The table contains these columns: Period, Month, tmin average",0,,2025-04-17 20:23:37.688818
+43,TypeError,Table.column() missing 1 required positional argument: 'index_or_label',0,,2025-04-17 20:26:33.558705
+44,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:11.512098
+45,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 20:29:32.925806
+46,SyntaxError,"closing parenthesis ')' does not match opening parenthesis '[' on line 22 (3987267260.py, line 24)",0,,2025-04-17 20:33:49.689467
+47,TypeError,'ellipsis' object is not iterable,0,,2025-04-17 21:34:02.841692
+48,SyntaxError,"unterminated string literal (detected at line 1) (1054670157.py, line 1)",0,,2025-04-17 22:07:54.062210
+49,TypeError,Table.column() missing 1 required positional argument: 'index_or_label',0,,2025-04-17 23:41:36.722046
+50,AttributeError,'numpy.ndarray' object has no attribute 'sample',0,,2025-04-17 23:41:56.594092
+51,NameError,name 'resampled_mean' is not defined,0,,2025-04-17 23:42:24.434550
+52,NameError,name 'plots' is not defined,0,,2025-04-17 22:09:27.865162
+53,ValueError,"The column ""Precipitation "" is not in the table. The table contains these columns: Year, Precipitation",0,,2025-04-17 23:24:51.127765
+54,ValueError,"The column ""Precipitation "" is not in the table. The table contains these columns: Year, Precipitation",0,,2025-04-17 23:24:55.575370
+55,ValueError,"The column ""Years "" is not in the table. The table contains these columns: Year, Precipitation",0,,2025-04-17 23:25:53.893930
+56,TypeError,"Use Table().with_columns() to create a new table,                 not Table.with_columns()",0,,2025-04-17 23:26:36.503574
+57,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 23:28:04.745977
+58,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-17 23:29:57.081859
+59,SyntaxError,"invalid syntax (2860352129.py, line 6)",0,,2025-04-17 23:32:14.562187
+60,SyntaxError,"'(' was never closed (2924433322.py, line 6)",0,,2025-04-17 23:32:23.074063
+61,AttributeError,'numpy.ndarray' object has no attribute 'num_rows',0,,2025-04-17 23:33:04.815094
+62,AttributeError,'numpy.ndarray' object has no attribute 'length',0,,2025-04-17 23:33:11.702578
+63,ValueError,Stop argument for islice() must be None or an integer: 0 <= x <= sys.maxsize.,0,,2025-04-17 23:36:18.316567
+64,ValueError,The column 'Label' contains non-numerical values. A histogram cannot be drawn for this table.,0,,2025-04-17 23:40:59.750305
+65,AttributeError,Rectangle.set() got an unexpected keyword argument 'bin',0,,2025-04-17 23:41:45.802585
+66,NameError,name 'totals' is not defined,0,,2025-04-17 23:46:19.120702
+67,SyntaxError,"positional argument follows keyword argument (546383498.py, line 8)",0,,2025-04-17 23:55:40.841714
+68,NameError,name 'monthly_increases' is not defined,0,,2025-04-18 00:43:34.750540
+
+1,SyntaxError,"invalid syntax (193730802.py, line 3)",0,,2025-04-18 09:27:08.342948
+2,SyntaxError,"invalid syntax (193730802.py, line 3)",0,,2025-04-18 09:27:10.282989
+3,ValueError,"label ""drought"" not in labels ('Label', 'Precipitation')",0,,2025-04-18 09:28:38.211459
+4,TypeError,unsupported operand type(s) for /: 'Table' and 'int',0,,2025-04-18 09:29:16.863579
+5,NameError,name 't' is not defined,0,,2025-04-18 09:32:39.470045
+6,AttributeError,'Table' object has no attribute 'sapmple',0,,2025-04-18 09:37:11.754259
+7,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2025-04-18 09:49:22.288904
+8,IndentationError,"expected an indented block after function definition on line 1 (3594604509.py, line 6)",0,,2025-04-18 09:49:31.999846
+9,AttributeError,'numpy.ndarray' object has no attribute 'append',0,,2025-04-18 09:53:57.158017
